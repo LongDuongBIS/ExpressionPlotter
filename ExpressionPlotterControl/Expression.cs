@@ -5,6 +5,9 @@ namespace ExpressionPlotterControl
 {
     public class Expression : IEvaluatable
     {
+        /// <summary>
+        /// klfjksefklfjkljfklfklsdfjklsdfjkl
+        /// </summary>
         private readonly char charX = 'x';
         private readonly Dictionary<string, double> constants;
         private bool isValid;
